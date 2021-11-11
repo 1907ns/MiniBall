@@ -16,7 +16,8 @@ There are two games modes :
 
 ## How to play?
 
-To run the project you should open a terminal, go to the concerned folder and:
+To run the project you should open a terminal, go to the concerned folder and :
+
     - gradle build
     - gradle run:desktop (if you want to play on Desktop)
     - gradle run:android if you want to play on Android
